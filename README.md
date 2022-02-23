@@ -1,9 +1,9 @@
-# sscroll-easings
+# sscroll-ease
 Itty-bitty smooth scrolling. **400 bytes gzipped.**
 
 # Usage
 ```javascript
-import sscroll from 'sscroll-easings'
+import sscroll from 'sscroll-ease'
 
 const stop = sscroll(document.getElementById('target'), {
   duration: 500, // ms

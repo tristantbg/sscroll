@@ -1,5 +1,5 @@
 {
-  "name": "sscroll-easings",
+  "name": "sscroll-ease",
   "version": "1.0.0",
   "description": "Itty-bitty smooth scrolling.",
   "source": "index.js",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/estrattonbailey/sscroll.git"
+    "url": "git+ssh://git@github.com/tristantbg/sscroll-ease.git"
   },
-  "author": "estrattonbailey",
+  "author": "tristantbg",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/estrattonbailey/sscroll/issues"
+    "url": "https://github.com/tristantbg/sscroll-ease/issues"
   },
-  "homepage": "https://github.com/estrattonbailey/sscroll#readme",
+  "homepage": "https://github.com/tristantbg/sscroll-ease#readme",
   "devDependencies": {
     "microbundle": "^0.4.4"
   },
